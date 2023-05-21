@@ -1,0 +1,35 @@
+#movielist
+name: My Great Movies
+
+#movie
+file: a.mov
+name:Hangover
+date: 01.04.2014 12:23
+#movie
+file: b.mov
+name:Oblivimon
+date: 01.04.2014 14:10
+#movie
+file: c.mov
+name:Kojak - der Film
+date: 03.04.2014 10:10
+#movie
+file: a.mov
+name:Hangover
+date: 03.04.2014 11:11
+#movie
+file:c .mov
+name:Kojak - der Film
+date: 07.04.2014 18:20
+#movie
+file: d.mov
+name:One for MMP
+date: 07.04.2014 20:13
+#movie
+file: c.mov
+name:Kojak - der Film
+date: 08.04.2014 14:14
+#movie
+file: a.mov
+name:Hangover
+date: 09.04.2014 17:29
